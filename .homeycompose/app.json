@@ -1,0 +1,24 @@
+{
+  "id": "nl.tygodriessen.plex",
+  "version": "0.0.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "Plex Media Server"
+  },
+  "description": {
+    "en": "Allows Homey to connect to a Plex Media Server."
+  },
+  "category": [
+    "video"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Tygo Driessen",
+    "email": "djtygod@gmail.com"
+  }
+}
